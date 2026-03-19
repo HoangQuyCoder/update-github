@@ -1,2 +1,2 @@
 # update-github
-how to get achievements
+how to get achievements!
